@@ -1,4 +1,4 @@
-![E-Commerce Dashboard Preview](https://github.com/Sarthak-Nigam/E-Commerce-Dashboard/blob/main/Dashboard%20image.jpg)
+![Netflix Dashboard Preview](https://github.com/Sarthak-Nigam/Netflix-Dashboard/blob/main/Netflix%20Tableau%20Dashboard.jpg)
 
 Netflix Data Visualization Dashboard
 Overview
