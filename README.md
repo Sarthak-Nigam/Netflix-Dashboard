@@ -6,21 +6,21 @@
 ### Overview
 This project is a Tableau dashboard designed to visualize Netflix data and provide insights into content trends, popular genres, viewing patterns, and other performance metrics. Through interactive visualizations, users can explore and analyze Netflix's catalog, helping them uncover valuable insights.  <br>
 
-### Features
+<h2>Features</h2>
 Interactive Visualizations: Drill down into specific data points to explore details.  <br>
 Content Trends: Visualize how different genres and types of content perform over time.  <br>
 Popular Genres: Analyze the most viewed genres and categories.  <br>
 Audience Insights: Viewership patterns based on content types and trends.  <br>
 Filtering Options: Filter data by genre, year, and more to customize your analysis.  <br>
 
-### Installation
+<h2>Installation</h2>
 To use the Tableau dashboard:
 
 1. Download the Tableau workbook file (Netflix Tableau Dashboard.twbx).
 2. Open the file using Tableau Desktop.
 If you don't have Tableau installed, you can download the Tableau Reader (free) to view and interact with the dashboard.
 
-### Data Source
+<h2>Data Source</h2>
 The data used for this dashboard was collected from Netflix's public datasets and includes details such as:
 
 Titles  <br>
@@ -30,7 +30,7 @@ Ratings  <br>
 Duration  <br>
 Viewing metrics  <br>
 
-### Use Case
+<h2>Use Case</h2>
 This dashboard is useful for:
 
 Data Analysts: Who want to explore Netflix's content performance and trends.  <br>
@@ -39,7 +39,7 @@ Marketers: Who need insights into popular genres and viewer engagement.  <br>
 Streaming Service Enthusiasts: Who wish to analyze the vast catalog of Netflix and compare trends over time.  <br>
 Students & Researchers: As a case study or example of data visualization in media/entertainment analytics.  <br>
 
-### Usage
+<h2>Usage</h2>
 Once the dashboard is opened in Tableau:
 
 1. Navigate through the dashboard tabs to explore different insights.  <br>
