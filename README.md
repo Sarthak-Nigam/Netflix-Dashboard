@@ -1,4 +1,4 @@
-![Netflix Dashboard Preview](https://github.com/Sarthak-Nigam/Netflix-Dashboard/blob/main/Netflix%20Tableau%20Dashboard.jpg)
+![Netflix Dashboard Preview]()
 
 Netflix Data Visualization Dashboard
 Overview
