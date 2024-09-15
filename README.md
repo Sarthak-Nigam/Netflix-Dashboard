@@ -23,21 +23,21 @@ If you don't have Tableau installed, you can download the Tableau Reader (free) 
 ### Data Source
 The data used for this dashboard was collected from Netflix's public datasets and includes details such as:
 
-Titles
-Genres
-Release year
-Ratings
-Duration
-Viewing metrics
+Titles  <br>
+Genres  <br>
+Release year  <br>
+Ratings  <br>
+Duration  <br>
+Viewing metrics  <br>
 
 ### Use Case
 This dashboard is useful for:
 
-Data Analysts: Who want to explore Netflix's content performance and trends.
-Content Creators: Who are looking to understand audience preferences and content success factors.
-Marketers: Who need insights into popular genres and viewer engagement.
-Streaming Service Enthusiasts: Who wish to analyze the vast catalog of Netflix and compare trends over time.
-Students & Researchers: As a case study or example of data visualization in media/entertainment analytics.
+Data Analysts: Who want to explore Netflix's content performance and trends.  <br>
+Content Creators: Who are looking to understand audience preferences and content success factors.  <br>
+Marketers: Who need insights into popular genres and viewer engagement.  <br>
+Streaming Service Enthusiasts: Who wish to analyze the vast catalog of Netflix and compare trends over time.  <br>
+Students & Researchers: As a case study or example of data visualization in media/entertainment analytics.  <br>
 
 ### Usage
 Once the dashboard is opened in Tableau:
