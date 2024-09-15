@@ -46,7 +46,7 @@ Once the dashboard is opened in Tableau:
 2. Use filters to refine the data by year, genre, or other dimensions.  <br>
 3. Hover over charts and graphs for more detailed information about each data point.  <br>
 
-### Visualizations
+<h2>Visualizations</h2>
 The dashboard includes the following key visualizations:
 
 Genre Popularity: Bar chart showing the most popular genres over time.  <br>
