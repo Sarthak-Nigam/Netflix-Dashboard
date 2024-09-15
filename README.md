@@ -5,7 +5,7 @@
 
 ### Overview
 This project is a Tableau dashboard designed to visualize Netflix data and provide insights into content trends, popular genres, viewing patterns, and other performance metrics. Through interactive visualizations, users can explore and analyze Netflix's catalog, helping them uncover valuable insights.  <br>
-
+<h2></h2>
 <h2>Features</h2>
 Interactive Visualizations: Drill down into specific data points to explore details.  <br>
 Content Trends: Visualize how different genres and types of content perform over time.  <br>
