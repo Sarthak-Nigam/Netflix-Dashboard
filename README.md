@@ -1,3 +1,5 @@
+![E-Commerce Dashboard Preview](https://github.com/Sarthak-Nigam/E-Commerce-Dashboard/blob/main/Dashboard%20image.jpg)
+
 Netflix Data Visualization Dashboard
 Overview
 This project is a Tableau dashboard designed to visualize Netflix data and provide insights into content trends, popular genres, viewing patterns, and other performance metrics. Through interactive visualizations, users can explore and analyze Netflix's catalog, helping them uncover valuable insights.
