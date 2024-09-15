@@ -1,5 +1,6 @@
 ![Netflix Dashboard Preview](https://github.com/Sarthak-Nigam/Netflix-Dashboard/blob/main/Netflix%20Tableau%20Dashboard.jpg)
 
+
 # Netflix Data Visualization Dashboard
 
 ### Overview
@@ -15,20 +16,21 @@ Filtering Options: Filter data by genre, year, and more to customize your analys
 ### Installation
 To use the Tableau dashboard:
 
-Download the Tableau workbook file (Netflix Tableau Dashboard.twbx).
-Open the file using Tableau Desktop.
+1. Download the Tableau workbook file (Netflix Tableau Dashboard.twbx).
+2. Open the file using Tableau Desktop.
 If you don't have Tableau installed, you can download the Tableau Reader (free) to view and interact with the dashboard.
 
 ### Data Source
 The data used for this dashboard was collected from Netflix's public datasets and includes details such as:
 
-### Titles
+Titles
 Genres
 Release year
 Ratings
 Duration
 Viewing metrics
-Use Case
+
+### Use Case
 This dashboard is useful for:
 
 Data Analysts: Who want to explore Netflix's content performance and trends.
@@ -40,22 +42,22 @@ Students & Researchers: As a case study or example of data visualization in medi
 ### Usage
 Once the dashboard is opened in Tableau:
 
-Navigate through the dashboard tabs to explore different insights.
-Use filters to refine the data by year, genre, or other dimensions.
-Hover over charts and graphs for more detailed information about each data point.
+1. Navigate through the dashboard tabs to explore different insights.  <br>
+2. Use filters to refine the data by year, genre, or other dimensions.  <br>
+3. Hover over charts and graphs for more detailed information about each data point.  <br>
 
 ### Visualizations
 The dashboard includes the following key visualizations:
 
-Genre Popularity: Bar chart showing the most popular genres over time.
-Content Distribution: Pie charts to visualize the distribution of content types.
-Viewership Trends: Line chart tracking the number of viewers by year or genre.
+Genre Popularity: Bar chart showing the most popular genres over time.  <br>
+Content Distribution: Pie charts to visualize the distribution of content types.  <br>
+Viewership Trends: Line chart tracking the number of viewers by year or genre.  <br>
 Top Titles: A list of the top-performing Netflix titles.
 
 ### Future Work
-Adding more advanced filtering and customization options.
-Integrating additional datasets for deeper analysis.
-Including more KPIs to measure Netflix's content performance.
+Adding more advanced filtering and customization options.  <br>
+Integrating additional datasets for deeper analysis.  <br>
+Including more KPIs to measure Netflix's content performance.  <br>
 
 ### Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to suggest improvements or new features.
@@ -66,5 +68,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ### Connect with Me
 Feel free to reach out for questions, feedback, or collaboration opportunities!
 
-GitHub: https://github.com/Sarthak-Nigam/
+GitHub: https://github.com/Sarthak-Nigam/  <br>
 LinkedIn: https://www.linkedin.com/in/nigamsarthak/
